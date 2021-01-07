@@ -19,5 +19,5 @@ Previously, I earned a MSc in Theoretical Chemistry and Computational Modelling
 with a short stay at the [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr/) (FR). 
 
 
-<img src="../images/banner-opv.png" width="600" />
+<img src="../images/banner-opv.png" width="800" />
 
