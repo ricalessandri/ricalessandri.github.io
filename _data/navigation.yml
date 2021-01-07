@@ -1,25 +1,28 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=yZV0hjQAAAAJ
+    
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Downloads"
+    url: /downloads/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Test-smb"
-    url:   "https://ricalessandri.github.io/test_smb/"
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Other"
+    url: /other/
+#
+# - title: "Outreach"
+#   url: /outreach/
+#   
+# - title: "Talks"
+#   url: /talks/    
+#
+# - title: "Teaching"
+#   url: /teaching/    
+#   
+# - title: "Blog Posts"
+#   url: /year-archive/
+#   
+# - title: "CV"
+#   url: /cv/
