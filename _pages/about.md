@@ -18,3 +18,6 @@ Previously, I earned a MSc in Theoretical Chemistry and Computational Modelling
 ([TCCM](https://www.emtccm.org/)) at the [University of Groningen](https://www.rug.nl/) (NL),
 with a short stay at the [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr/) (FR). 
 
+
+<img src="../images/banner-opv.png" width="600" />
+
