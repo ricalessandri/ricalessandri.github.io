@@ -12,6 +12,9 @@ redirect_from:
 
 A list of books I have read lately which I much enjoyed. I will add more as I recall them.
 
+## 2021
+- Digital Minimalism (by Cal Newport)
+
 ## 2020
 - Dune (by Frank Herbert)
 - The organized mind (by Daniel Levitin)
